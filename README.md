@@ -16,8 +16,6 @@ for example: hello <-> [104 101 108 108 111]<br>
 
 <u>Step4:</u> To get the original message we need to convert the numbers back to characters.<br>
 
-<hr>
-
 ## Run Locally
 
 Clone the project
