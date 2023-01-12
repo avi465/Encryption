@@ -3,8 +3,8 @@
 This is demo of how we can acheive encryption using matrix and inverse matrix
 
 ## Screenshots
-
-![App Screenshot](https://github.com/avi465/Encryption/blob/master/images/Screenshot.png)
+<img alt="Screenshot" src="https://user-images.githubusercontent.com/63386918/212120822-e71decd5-67ee-48a1-a9cf-b08336325957.png">
+<!--- ![App Screenshot](images/Screenshot.png) -->
 
 ## Working
 ```Step1: First message is converted into numbers by any algorithm. Let's say according to its ascii value.Example: hello <-> [104 101 108 108 111]```
